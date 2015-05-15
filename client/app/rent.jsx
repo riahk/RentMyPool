@@ -207,9 +207,8 @@ var Booking = React.createClass({
       noDetails: true,
       rental: {},
       reviews: [],
-      errors: ''
+      errors: '',
       avgRating: 0,
-      reviews: []
     };
   },
 
